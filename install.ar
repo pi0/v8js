@@ -1,0 +1,4 @@
+create /usr/lib/libv8_libplatform.a
+addlib /v8/out/native/obj.target/src/libv8_libplatform.a
+save
+end
